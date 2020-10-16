@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lookitter/static/css/main.0f951f6a.chunk.css",
-    "main.js": "/lookitter/static/js/main.bd7d2e2c.chunk.js",
-    "main.js.map": "/lookitter/static/js/main.bd7d2e2c.chunk.js.map",
+    "main.js": "/lookitter/static/js/main.87ad97ae.chunk.js",
+    "main.js.map": "/lookitter/static/js/main.87ad97ae.chunk.js.map",
     "runtime-main.js": "/lookitter/static/js/runtime-main.ed53c988.js",
     "runtime-main.js.map": "/lookitter/static/js/runtime-main.ed53c988.js.map",
     "static/js/2.c7469b6c.chunk.js": "/lookitter/static/js/2.c7469b6c.chunk.js",
     "static/js/2.c7469b6c.chunk.js.map": "/lookitter/static/js/2.c7469b6c.chunk.js.map",
     "index.html": "/lookitter/index.html",
-    "precache-manifest.55205203c61f87f188f8dc8cae114e55.js": "/lookitter/precache-manifest.55205203c61f87f188f8dc8cae114e55.js",
+    "precache-manifest.90b0f4a88669805768f34efbc6d43111.js": "/lookitter/precache-manifest.90b0f4a88669805768f34efbc6d43111.js",
     "service-worker.js": "/lookitter/service-worker.js",
     "static/css/main.0f951f6a.chunk.css.map": "/lookitter/static/css/main.0f951f6a.chunk.css.map",
     "static/js/2.c7469b6c.chunk.js.LICENSE.txt": "/lookitter/static/js/2.c7469b6c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ed53c988.js",
     "static/js/2.c7469b6c.chunk.js",
     "static/css/main.0f951f6a.chunk.css",
-    "static/js/main.bd7d2e2c.chunk.js"
+    "static/js/main.87ad97ae.chunk.js"
   ]
 }
