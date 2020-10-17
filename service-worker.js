@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lookitter/precache-manifest.90b0f4a88669805768f34efbc6d43111.js"
+  "/lookitter/precache-manifest.192d9ee92828d9a5a8c8afb3eaa94539.js"
 );
 
 self.addEventListener('message', (event) => {
